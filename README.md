@@ -1,4 +1,4 @@
-# Facial-Expression-Recognition
+# Facial-Expression-Recognition using Deep Learning (CNN)
 Facial Expression recognition research paper implementation  
 Research Paper Implementation (partially based upon text)  
 Citation:  
